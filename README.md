@@ -7,3 +7,4 @@ We are analyzing the Call Detail Record (CDR) of the customers of a big telco se
 The main objective of our work is to develop a churn prediction model that helps a telecom service provider to predict customers who are most likely subject to churn. We will be using machine learning techniques on big data that uses a new way of features engineering to predict.
 
 Members: Mansi Agarwal(ma996), Sukriti Sudhakar(ss2742)
+
